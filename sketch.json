@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:esp32thing_plus:DebugLevel=none,EraseFlash=none,FlashFreq=80,PartitionScheme=default,UploadSpeed=921600",
+    "name": "SparkFun ESP32 Thing Plus",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
